@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin Task2</string>
+    <string name="Item_1_Bread" />
+    <string name="Item_2_Golden_Morn" />
+    <string name="Item_3_Soap" />
+    <string name="Item_4_Soda" />
+    <string name="Item_5_Rice" />
+    <string name="Item_6_Chicken" />
+    <string name="Item_7_Toilet_Roll" />
+    <string name="Item_8_Biscuit" />
+    <string name="item_1_bread" />
+    <string name="Item_1_Milo" />
+    <string name="Item_2_Golden_Morn_Bread" />
+    <string name="Milo" />
+</resources>
